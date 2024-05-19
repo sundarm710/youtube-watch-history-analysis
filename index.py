@@ -3,6 +3,7 @@ from datetime import datetime, timedelta
 import json
 
 from googleapiclient.discovery import build
+
 import os
 
 import streamlit as st
@@ -115,7 +116,7 @@ if os.path.exists(f'{video_metadata}.json'):
 
 else:
     # Prepare source data
-    print ('Preparing source data for ', who)
+    print ('Preparing source data')
     prepare_source_data()
 
     # Load and prepare data
