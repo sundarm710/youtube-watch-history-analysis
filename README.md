@@ -30,4 +30,21 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 # Run the streamlit app
 `streamlit run src/index.py`
 
-# Insights you can gain
+# Insights
+Your Youtube viewing history by date
+![Frequency of YouTube Video Watching](images/frequency.png)
+
+The category of videos you watch
+![Category of YouTube Video Watching](images/categories.png)
+
+The hours of the day
+![Hours of day][[images/hour.png]]
+
+Breakdown by days of the week
+![Hours of day][[images/days_of_week.png]]
+
+Filter for only some keywords to get their trends
+![Filter in][[images/keyword_filter.png]]
+
+Filter out certain keywords and see trends
+![Filter out][[images/keyword_filter_out.png]]
