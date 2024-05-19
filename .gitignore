@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+watch-history-sundar.html
+video_metadata_sundar.json
+parsed_history_sundar.json
