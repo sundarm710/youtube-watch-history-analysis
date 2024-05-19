@@ -38,13 +38,13 @@ The category of videos you watch
 ![Category of YouTube Video Watching](images/categories.png)
 
 The hours of the day
-![Hours of day][[images/hour.png]]
+![Hours of day](images/hour.png)
 
 Breakdown by days of the week
-![Hours of day][[images/days_of_week.png]]
+![Hours of day](images/days_of_week.png)
 
 Filter for only some keywords to get their trends
-![Filter in][[images/keyword_filter.png]]
+![Filter in](images/keyword_filter.png)
 
 Filter out certain keywords and see trends
-![Filter out][[images/keyword_filter_out.png]]
+![Filter out](images/keyword_filter_out.png)
